@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1619787999 source:f:\projects\phonebook\main.c
+	"functions.h"
+
+1619788934 f:\projects\phonebook\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1619823036 source:f:\projects\phonebook\functions.c
+	"functions.h"
+	"functions.h"
+
